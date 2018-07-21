@@ -1,5 +1,8 @@
 ---
 title: 测试分类
+categories:
+- test
+tags:
 ---
 
 
