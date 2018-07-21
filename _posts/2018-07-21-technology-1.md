@@ -1,12 +1,12 @@
 ---
 title: HDFS+HBase+Hive+Spark学习笔记
 categories: 
- - technology
+- technology
 tags:
- - HDFS
- - HBase
- - Hive
- - Spark
+- HDFS
+- HBase
+- Hive
+- Spark
 ---
 
 
