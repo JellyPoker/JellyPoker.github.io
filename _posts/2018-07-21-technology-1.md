@@ -1,7 +1,6 @@
 ---
 title: HDFS+HBase+Hive+Spark学习笔记
-categories:
- - 技术养成
+categories: 技术养成
 tags:
  - HDFS
  - HBase
