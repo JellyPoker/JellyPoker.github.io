@@ -385,6 +385,10 @@ han: false
 # Duoshuo ShortName
 #duoshuo_shortname:
 
+duoshuo:
+  enable: true
+  shortname: your-duoshuo-shortname
+
 # Disqus
 disqus:
   enable: false
