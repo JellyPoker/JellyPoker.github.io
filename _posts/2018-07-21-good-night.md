@@ -1,6 +1,6 @@
 ---
-title: 晚安，陌生人
-layout: post
+title: good night to strangers
+published: true
 categories: test
 tags:
 ---
