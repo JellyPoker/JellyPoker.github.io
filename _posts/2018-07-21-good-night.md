@@ -1,5 +1,6 @@
 ---
-title:晚安，陌生人
+title: 晚安，陌生人
+layout: post
 categories: test
 tags:
 ---
