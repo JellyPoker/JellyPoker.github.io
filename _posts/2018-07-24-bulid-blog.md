@@ -2,9 +2,10 @@
 title: 如何快速搭建个人博客
 layout: post
 tags:
-  - Github
+  - GithubPages
   - Jekyll
   - 博客
+  - 美化
 category: 技术养成
 ---
 ## 前言
