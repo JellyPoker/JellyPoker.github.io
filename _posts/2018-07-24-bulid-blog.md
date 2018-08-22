@@ -32,8 +32,11 @@ title: 如何快速搭建个人博客
 **举例说明：(这里以NexT主题项目为例)**
 1.在Github上搜索[NexT](https://github.com/simpleyyt/jekyll-theme-next) ，点击Clone or Download中的Download Zip下载压缩包到本地。
 2.解压生成文件夹，找到config.yml文件（配置文件），根据自己网站的信息适当修改配置文件。
-3.将上述文件夹里的所有内容Push到自己的Github仓库（上面已经创建的名为用户名.github.io的Respository）里，即可应用成功。这一步涉及的文件较多，容易产生冲突，可以用[Github Desktop](https://desktop.github.com/) (Github官方发布的一款笔记本端管理软件)来辅助。
-*下面描述具体步骤*
+3.将上述文件夹里的所有内容Push到自己的Github仓库（上面已经创建的名为用户名.github.io的Repository）里，即可应用成功。这一步涉及的文件较多，容易产生冲突，可以用[Github Desktop](https://desktop.github.com/) (Github官方发布的一款笔记本端管理软件)来辅助。
+*下面对第3步做详细描述*
+（1）打开Github Desktop，登录自己的Github账号
+（2）点击最上方工具栏File下的Clone Repository，可看到该账号下的Repository，选择名为JellyPoker.github.io的Repository点击Clone将其下载到本地路径
+（3）将第2步解压并修改配置文件的文件夹中的所有内容复制粘贴至本地文件夹中
 
 
 ## 撰写博文
