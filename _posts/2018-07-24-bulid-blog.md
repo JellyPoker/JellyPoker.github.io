@@ -16,7 +16,7 @@ title: 如何快速搭建个人博客
 1. 注册Github账号并登录。
 2. 创建一个Repository，命名为 用户名.github.io。
 3. 点击Settings可查看站点是否已经被成功发布。具体操作：点击Settings下拉页面找到GithubPages查看站点的发布信息，若发布成功，则会显示以下信息：
-![网站发布成功][/assets/images/shotpics/pi.jpg]
+![网站发布成功][/assets/images/shotpics/p1.jpg]
 根据上图，站点已被发布在https://jellypoker.github.io 上。
 若发布失败有可能是config配置文件编写出错，这里也会显示具体错误出现的行数，便于修改。
 
