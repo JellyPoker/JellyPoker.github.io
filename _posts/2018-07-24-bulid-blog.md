@@ -42,6 +42,7 @@ title: 如何快速搭建个人博客
 ![push到Github上](/assets/images/shotpics/p4.jpg)
 4. 刷新自己的网站，即可发现主题已经运用，美化基本完成。
 ![效果图](/assets/images/shotpics/p6.jpg)
+
 ## 撰写并发布博文
 以该方式建立的站点，博文其实是一个md文件（如：ReadMe.md），文件中多采用Markdown语法，[点击了解一下简易Markdown语法](https://jellypoker.github.io/小芝士/2018/08/21/the-post-6392)
 写好博文后，将其放在Repository的_posts目录下，即可在网站上发布该博文。方法可以同样是在本地编辑好博文并放入本地文件夹，再通过Github Desktop同步到Github仓库中。
