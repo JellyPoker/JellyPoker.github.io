@@ -40,6 +40,7 @@ title: 如何快速搭建个人博客
   （4）此时点开Github Desktop将发现所有的文件修改替换信息全部显示在左侧(如下图)，但这只是本地文件进行了修改替换，Github上的项目文件仍然不变，网站内容和页面也因此不变。所以接下来，我们需要将所有已经修改替换后的文件Push到Github仓库中。在左侧简要填写summary然后点击下面的Commit to master提交修改（如下图），最后点击上方的Push origin将修改push到Github上的仓库（如下图）。
 ![显示变化并提交修改](/assets/images/shotpics/p3.jpg)
 ![push到Github上](/assets/images/shotpics/p4.jpg)
+
 4. 刷新自己的网站，即可发现主题已经运用，美化基本完成。
 ![效果图](/assets/images/shotpics/p6.jpg)
 
