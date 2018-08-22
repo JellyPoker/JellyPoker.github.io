@@ -41,7 +41,7 @@ title: 如何快速搭建个人博客
 ![显示变化并提交修改](/assets/images/shotpics/p3.jpg)
 ![push到Github上](/assets/images/shotpics/p4.jpg)
 
-4.刷新自己的网站，即可发现主题已经运用，美化基本完成。
+4.刷新自己的网站，即可发现主题已经运用，美化基本完成。(下图网站修改了背景图片并调整了网页显示的不透明度，具体操作可见[另一博客贴]())
 ![效果图](/assets/images/shotpics/p6.jpg)
 
 ## 撰写并发布博文
