@@ -35,9 +35,13 @@ title: 如何快速搭建个人博客
 3.将上述文件夹里的所有内容Push到自己的Github仓库（上面已经创建的名为用户名.github.io的Repository）里，即可应用成功。这一步涉及的文件较多，容易产生冲突，可以用[Github Desktop](https://desktop.github.com/) (Github官方发布的一款笔记本端管理软件)来辅助。
 *下面对第3步做详细描述*
 （1）打开Github Desktop，登录自己的Github账号
-（2）点击最上方工具栏File下的Clone Repository，可看到该账号下的Repository，选择名为JellyPoker.github.io的Repository点击Clone将其下载到本地路径
-（3）将第2步解压并修改配置文件的文件夹中的所有内容复制粘贴至本地文件夹中
+（2）点击最上方工具栏File下的Clone Repository，可看到该账号下的Repository，选择名为JellyPoker.github.io的Repository点击Clone将其下载到本地路径(如下图所示)，请记住该路径。
+![下载到本地](/assets/images/shotpics/p2.jpg)
 
+（3）将第2步解压并修改配置文件的文件夹中的所有内容复制粘贴至本地文件夹中（第2步中文件保存的本地路径）。
+（3）此时点开Github Desktop将发现所有的文件修改替换信息全部显示在左侧(如下图)，但这只是本地文件进行了修改替换，Github上的项目文件仍然不变，网站内容和页面也因此不变。所以接下来，我们需要将所有已经修改替换后的文件Push到Github仓库中。在左侧简要填写summary然后点击下面的Commit to master提交修改（如下图），最后点击上方的Push to origin将修改push到Github上的仓库（如下图）。
+![显示变化并提交修改](/assets/images/shotpics/p3.jpg)
+![push到Github上](/assets/images/shotpics/p4.jpg)
 
 ## 撰写博文
 ## 管理博文
