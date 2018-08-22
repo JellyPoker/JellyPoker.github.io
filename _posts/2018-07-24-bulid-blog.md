@@ -26,7 +26,7 @@ title: 如何快速搭建个人博客
 
 ### 美化博客站点
 经过以上步骤，建站的第一步已经完成，任何人可以通过输入网址访问你的网站。但此时的网站比较简陋，缺少美化，也降低了可用性。因此，下一步我们需要对网站进行美化。推荐的方法是在Github上fork并下载优秀的开源项目，通过修改配置文件将其应用到自己的网站中。
-####举例说明：(这里以NexT主题项目为例)
+#### 举例说明：(这里以NexT主题项目为例)
 1. 在Github上搜索[NexT](https://github.com/simpleyyt/jekyll-theme-next) ，点击-Clone or Download中的Download Zip下载压缩包到本地。
 2. 解压生成文件夹，找到config.yml文件（配置文件），根据自己网站的信息适当修改配置文件。
 3. 将上述文件夹里的所有内容Push到自己的Github仓库（上面已经创建的名为用户名.github.io的Repository）里，即可应用成功。这一步涉及的文件较多，容易产生冲突，可以用[Github Desktop](https://desktop.github.com/) (Github官方发布的一款笔记本端管理软件，可事先对其使用说明进行了解)来辅助。
